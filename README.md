@@ -1,4 +1,4 @@
-# 🚀 Internet Speed Test (Flask + Speedtest)
+# 🚀 Internet Speed Test 
 
 This project is a **web-based Internet Speed Test app** built with **Flask** and the **speedtest-cli** library.  
 It allows users to check their **download speed, upload speed, and ping**, and also provides **file transfer time estimates** for common file sizes (1 MB, 10 MB, 100 MB).
