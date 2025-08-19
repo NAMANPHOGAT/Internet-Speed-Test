@@ -33,3 +33,7 @@ It allows users to check their **download speed, upload speed, and ping**, and a
    cd {directory of program}
 4. Run the server with:
    python SERVER.py
+
+# How to Access The Server:-
+1. Type the link in this format for diff machine http://{your server ip address}
+   
